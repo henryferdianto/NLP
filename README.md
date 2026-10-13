@@ -38,3 +38,25 @@ Proyek ini mencakup alur kerja lengkap Data Science dalam bidang Natural Languag
 ## 📜 License
 
 Project ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+## 📊 Model Performance
+
+| Metric | Value |
+|---|---|
+| Accuracy | TBD |
+| Precision | TBD |
+| Recall | TBD |
+| F1-Score | TBD |
+
+### Confusion Matrix
+
+![Confusion Matrix](reports/figures/confusion-matrix.png)
+
+_Add confusion matrix image from model evaluation to reports/figures/confusion-matrix.png_
+
+### Key Insights
+
+- Dominant sentiment & distribution
+- Top terms contributing to positive/negative sentiment
